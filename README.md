@@ -1,1 +1,2 @@
-# project-DA-promo-b-modulo-2-team-2
+Tablero Kanban Proyecto
+https://miro.com/app/board/uXjVPdG1bPU=/
