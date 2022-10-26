@@ -20,7 +20,34 @@ https://miro.com/app/board/uXjVPdG1bPU=/
 
 Aquí os dejamos también un enlace a nuestra presentación final.
 
-
+https://drive.google.com/file/d/1gDOUVFm_JC9_ZLoA6NUxSA_S_89fKoxt/view?usp=sharing
 
 Gracias por la atención. 
+
+In this repository we find the python work done for the second module of Adalab's Data promoB.
+
+It involved collecting data from different files on surveys of different profiles related to data, in which they were asked about their preferences and uses of tools and systems. With these files we have built a single df to which we have applied cleaning processes and analysis of the data obtained.
+
+The assumption is: we want to provide information to our client, Adalab, to guide them in the syllabus that should include a course focused on training data analyst profiles.
+
+The file relationship is as follows:
+HU1: extraction of the different files that we have, and their merger in a single DF with which we will work.
+HU2: selection of variables that we want for our hypothesis, deletion of columns that we do not need and cleaning of the data.
+HU3_data_analyst: We will filter the df by the professional profile we want to focus on this time, which is the junior data analyst profile.
+HU3_visualizacion: in this file we develop all the graphs we need to illustrate our hypotheses and help us obtain useful information for the client.
+HU_4: this folder contains the list of png images of all our graphics. Necessary to use in our presentation
+
+data: in this folder all the files that serve us as data input are housed, and also the csv that we have been generating in each phase, and that are both output and later inputs for our work.
+
+We also attach the link to our kanban board on the miro platform, where we can see our tasks and ways of applying our organization at work. Always keeping in mind an agile philosophy in our development as a team.
+Kanban Board Project
+https://miro.com/app/board/uXjVPdG1bPU=/
+
+
+Here is also a link to our final presentation.
+
+https://drive.google.com/file/d/1gDOUVFm_JC9_ZLoA6NUxSA_S_89fKoxt/view?usp=sharing
+
+Thanks for your attention.
+Paula, Natalia, Diana and Maria
 Paula, Natalia, Diana y María
