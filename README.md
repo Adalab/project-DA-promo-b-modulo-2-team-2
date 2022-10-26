@@ -23,4 +23,4 @@ Aquí os dejamos también un enlace a nuestra presentación final.
 
 
 Gracias por la atención. 
-Paula, Natalia, Diana y Mar
+Paula, Natalia, Diana y María
